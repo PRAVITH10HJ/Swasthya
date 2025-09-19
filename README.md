@@ -176,8 +176,8 @@ Ensure the frontend API calls point to the correct backend service ports.
 
 - **(Pravith S Upadhyaya)** - Full-Stack & AI - [GitHub Profile](https://github.com/PRAVITH10HJ)
 - [Suraksha] - [Frontend]
-- [Maruthi prasad reddy] - [Research]
--[Siri shree] - [Research&Presentation]
-> This project was developed for the Swasthya Hackathon - September 2025.
+- [Maruthi prasad Reddy] - [Research]- [GitHub Profile](https://github.com/maru5471)
+-[Siri shree] - [Research & Presentation]- [GitHub Profile]
+> This project was developed for the Hackaphasia Hackathon - September 2025.
 
 ---
