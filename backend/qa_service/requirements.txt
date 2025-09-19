@@ -1,0 +1,4 @@
+Flask
+faiss-cpu
+sentence-transformers
+PyPDF2

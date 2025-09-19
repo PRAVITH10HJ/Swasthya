@@ -1,0 +1,98 @@
+symptoms,triage_level
+"Severe chest pain spreading to the arm and jaw, feeling short of breath",Emergency
+"Sudden weakness on one side of the face, arm, or leg, and difficulty speaking",Emergency
+"Uncontrolled bleeding from a deep cut on the leg",Emergency
+"High fever over 104°F (40°C) with a stiff neck and confusion",Emergency
+"Difficulty breathing, wheezing, and lips turning blue",Emergency
+"Severe allergic reaction with swelling of the face and throat, can't breathe",Emergency
+"Fell from a ladder and unable to move my leg, bone is visibly out of place",Emergency
+"Vomiting large amounts of bright red blood",Emergency
+"Sudden, severe headache, the worst headache of my life",Emergency
+"Child is lethargic, unresponsive, and has a purple pinpoint rash",Emergency
+"Seizure lasting longer than five minutes",Emergency
+"Major head trauma with loss of consciousness",Emergency
+"Sudden loss of vision in one or both eyes",Emergency
+"Feeling of impending doom with severe heart palpitations and dizziness",Emergency
+"Coughing up pink, frothy sputum and can't catch my breath",Emergency
+"Abdominal pain so severe I can't stand up straight",Emergency
+"Suspected poisoning after ingesting a chemical",Emergency
+"Severe burn covering a large area of the body",Emergency
+"Infant under 3 months with a fever over 100.4°F (38°C)",Emergency
+"Feeling actively suicidal and have a plan",Emergency
+"Garbled speech and sudden inability to understand others",Emergency
+"Crushing sensation in the chest that started an hour ago",Emergency
+"Knife wound to the abdomen",Emergency
+"Can't feel or move my legs after a car accident",Emergency
+"My husband fainted and is not waking up",Emergency
+"Persistent vomiting and diarrhea for two days, feeling very weak",Urgent
+"Painful urination and a constant urge to go, with a fever of 101°F",Urgent
+"Twisted my ankle playing sports, it's very swollen and I can't put weight on it",Urgent
+"A deep cut on my hand that won't stop oozing, might need stitches",Urgent
+"Asthma attack that is not getting much better with my rescue inhaler",Urgent
+"Moderate abdominal pain in the lower right side that has been getting worse for 12 hours",Urgent
+"A dog bite that broke the skin and is bleeding",Urgent
+"Woke up with a painful, red, and swollen eye with blurry vision",Urgent
+"Fever and body aches for 3 days, coughing up yellow mucus",Urgent
+"A spreading red rash that is hot and painful to the touch",Urgent
+"Severe earache with fluid draining from the ear",Urgent
+"Migraine headache that hasn't gone away with my usual medication for 24 hours",Urgent
+"Feeling dizzy and lightheaded when I stand up, nearly fainted twice",Urgent
+"Vomited three times this morning and have a low-grade fever",Urgent
+"Possible broken toe, it's purple and very painful",Urgent
+"My depression has gotten much worse and I'm having trouble getting out of bed",Urgent
+"Kidney stone pain, severe pain in my back that comes in waves",Urgent
+"Suddenly seeing flashes of light and floaters in my vision",Urgent
+"I have a fish bone stuck in my throat",Urgent
+"Woke up with hives all over my body, very itchy",Urgent
+"Accidentally splashed a cleaning product in my eye, it's burning",Urgent
+"My toddler has a persistent, barking cough and is breathing loudly",Urgent
+"High fever and shaking chills",Urgent
+"I think I have the flu, every muscle in my body hurts",Urgent
+"My blood sugar is much higher than normal and won't come down",Urgent
+"Back pain so bad I can't get comfortable or sleep",Urgent
+"A small piece of glass is stuck in my foot",Urgent
+"Pain and swelling in my calf after a long flight",Urgent
+"My child has been crying inconsolably for hours and has a fever",Urgent
+"Sudden hearing loss in one ear",Urgent
+"I have a mild sore throat and a runny nose for a few days",Routine
+"My seasonal allergies are acting up, I need a prescription refill",Routine
+"Chronic lower back pain that has flared up slightly this week",Routine
+"I have a small, itchy rash on my arm that has been there for a week",Routine
+"Mild tension headache that comes and goes, relieved by Tylenol",Routine
+"Follow-up appointment for my blood pressure medication",Routine
+"Need to schedule an annual physical exam",Routine
+"Slightly twisted my knee but I can still walk on it with minor pain",Routine
+"Mild heartburn after eating spicy food",Routine
+"Requesting a referral to a dermatologist for acne",Routine
+"I have a persistent, dry cough but no fever",Routine
+"Need to get my cholesterol checked",Routine
+"My knee aches when it's cold outside",Routine
+"I've had a stuffy nose for about a week",Routine
+"Request for travel vaccinations",Routine
+"My psoriasis is flaring up on my elbows",Routine
+"I would like to discuss my birth control options",Routine
+"Follow up on recent lab results",Routine
+"Mild constipation for the past few days",Routine
+"Concern about a non-painful mole that has changed slightly",Routine
+"I have some questions about my medication's side effects",Routine
+"My wrist has been sore after typing all day",Routine
+"I think I have a wart on my finger",Routine
+"Need a doctor's note for work/school",Routine
+"Checking in about my diabetes management",Routine
+"Sore throat, but I can still eat and drink fine",Routine
+"I've been feeling more tired than usual lately",Routine
+"Refill needed for my thyroid medication",Routine
+"General check-up, I feel fine",Routine
+"I have athlete's foot again",Routine
+"My baby has a mild diaper rash",Routine
+"Trouble sleeping for the last couple of weeks",Routine
+"I want to get a flu shot",Routine
+"Mild muscle strain from working out",Routine
+"My ears feel clogged but there's no pain",Routine
+"Need to review my diet and nutrition",Routine
+"Intermittent ringing in my ears",Routine
+"I have a canker sore in my mouth",Routine
+"Requesting paperwork for disability",Routine
+"Mild anxiety about an upcoming exam",Routine
+"Follow-up for a healed sprain",Routine
+"Questions about starting a new exercise program",Routine
