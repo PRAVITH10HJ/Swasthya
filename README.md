@@ -105,8 +105,8 @@ graph LR
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/PRAVITH10HJ/swasthya-hackathon.git
-cd swasthya-hackathon
+git clone https://github.com/PRAVITH10HJ/Swasthya.git
+cd Swasthya
 ```
 
 ### 2. Prepare AI Models
@@ -157,7 +157,7 @@ Ensure the frontend API calls point to the correct backend service ports.
 ## 📁 Project Structure
 
 ```
-/swasthya-hackathon
+/Swasthya
 ├── backend/                # Microservices
 │   ├── triage_service/
 │   ├── qa_service/
