@@ -44,32 +44,40 @@ Access to timely and trustworthy medical information is a critical challenge, of
 Our platform utilizes a microservices architecture to ensure scalability and maintainability. Each service operates independently, communicating via a central API gateway.
 
 ```mermaid
-graph TD
-    subgraph User Facing
-        A[Frontend - React SPA]
+graph LR
+    subgraph User
+        A[Mobile Web App]
     end
 
     subgraph Backend Services
-        B[API Gateway]
-        C[Triage Service - Flask]
-        D[Q&A Service - Flask]
-        E[Clinic Service - Flask]
+        B[Symptom Triage]
+        C[Medical Q&A]
+        D[Clinic Locator]
     end
 
     subgraph AI & Data Layer
-        F[Symptom Classifier Model]
-        G[RAG Pipeline - FAISS Index]
-        H[Clinics SQLite DB]
+        E[Symptom Classifier Model]
+        
+        subgraph RAG System
+            F[Sentence Model] --> G[Vector DB] --> H[Knowledge Base]
+        end
+
+        I[Health Services DB]
     end
 
-    A -- REST API --> B
-    B -- /triage --> C
-    B -- /ask --> D
-    B -- /clinics --> E
+    A -- 1. Symptoms --> B
+    B --> E
+    E -- Triage Result --> A
 
-    C -- "Inference" --> F
-    D -- "Retrieval" --> G
-    E -- "Query" --> H
+    A -- 2. Questions --> C
+    C --> F
+    H -- Retrieved Answer --> C
+    C -- Formatted Response --> A
+
+    A -- 3. Location --> D
+    D --> I
+    I -- Clinic List --> D
+    D -- Clinic Locations --> A
 ```
 
 ---
